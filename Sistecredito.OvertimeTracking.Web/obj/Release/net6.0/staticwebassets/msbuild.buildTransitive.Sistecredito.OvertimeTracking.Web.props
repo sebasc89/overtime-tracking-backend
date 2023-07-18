@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sistecredito.OvertimeTracking.Web.props" />
+</Project>

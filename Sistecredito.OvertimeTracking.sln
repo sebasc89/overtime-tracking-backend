@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{20EAE310-F568-49BD-8335-989CEA11971A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{58E81D70-50A5-44C1-BE9B-A53A76F6B28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Core", "Sistecredito.OvertimeTracking.Core\Sistecredito.OvertimeTracking.Core.csproj", "{BEF72424-075E-4B2B-8C9C-15E1FF01BC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Infrastructure", "Sistecredito.OvertimeTracking.Infrastructure\Sistecredito.OvertimeTracking.Infrastructure.csproj", "{583C65A2-AC33-47A8-8267-688A41D78D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Application", "Sistecredito.OvertimeTracking.Application\Sistecredito.OvertimeTracking.Application.csproj", "{1E550F5A-6074-42D8-99FB-379B385F7BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Web", "Sistecredito.OvertimeTracking.Web\Sistecredito.OvertimeTracking.Web.csproj", "{FE83C806-BCB1-4D10-A09B-C54384160FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Application.Tests", "Sistecredito.OvertimeTracking.Application.Tests\Sistecredito.OvertimeTracking.Application.Tests.csproj", "{5CF6833D-F767-4E5E-91F4-3CE4C8D3F6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Core.Tests", "Sistecredito.OvertimeTracking.Core.Tests\Sistecredito.OvertimeTracking.Core.Tests.csproj", "{90F8E544-52F1-4F4A-B208-0CFA47465617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Infrastructure.Tests", "Sistecredito.OvertimeTracking.Infrastructure.Tests\Sistecredito.OvertimeTracking.Infrastructure.Tests.csproj", "{E7720C73-A1AD-42B6-922D-44755F7B3D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistecredito.OvertimeTracking.Web.Tests", "Sistecredito.OvertimeTracking.Web.Tests\Sistecredito.OvertimeTracking.Web.Tests.csproj", "{AF6A60E3-ACE6-4091-BE3E-9D4F708DC3D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF72424-075E-4B2B-8C9C-15E1FF01BC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF72424-075E-4B2B-8C9C-15E1FF01BC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF72424-075E-4B2B-8C9C-15E1FF01BC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF72424-075E-4B2B-8C9C-15E1FF01BC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583C65A2-AC33-47A8-8267-688A41D78D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583C65A2-AC33-47A8-8267-688A41D78D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583C65A2-AC33-47A8-8267-688A41D78D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583C65A2-AC33-47A8-8267-688A41D78D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E550F5A-6074-42D8-99FB-379B385F7BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E550F5A-6074-42D8-99FB-379B385F7BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E550F5A-6074-42D8-99FB-379B385F7BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E550F5A-6074-42D8-99FB-379B385F7BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE83C806-BCB1-4D10-A09B-C54384160FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE83C806-BCB1-4D10-A09B-C54384160FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE83C806-BCB1-4D10-A09B-C54384160FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE83C806-BCB1-4D10-A09B-C54384160FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF6833D-F767-4E5E-91F4-3CE4C8D3F6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF6833D-F767-4E5E-91F4-3CE4C8D3F6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF6833D-F767-4E5E-91F4-3CE4C8D3F6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF6833D-F767-4E5E-91F4-3CE4C8D3F6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F8E544-52F1-4F4A-B208-0CFA47465617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F8E544-52F1-4F4A-B208-0CFA47465617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F8E544-52F1-4F4A-B208-0CFA47465617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F8E544-52F1-4F4A-B208-0CFA47465617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7720C73-A1AD-42B6-922D-44755F7B3D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7720C73-A1AD-42B6-922D-44755F7B3D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7720C73-A1AD-42B6-922D-44755F7B3D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7720C73-A1AD-42B6-922D-44755F7B3D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6A60E3-ACE6-4091-BE3E-9D4F708DC3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6A60E3-ACE6-4091-BE3E-9D4F708DC3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6A60E3-ACE6-4091-BE3E-9D4F708DC3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6A60E3-ACE6-4091-BE3E-9D4F708DC3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BEF72424-075E-4B2B-8C9C-15E1FF01BC23} = {20EAE310-F568-49BD-8335-989CEA11971A}
+		{583C65A2-AC33-47A8-8267-688A41D78D1F} = {20EAE310-F568-49BD-8335-989CEA11971A}
+		{1E550F5A-6074-42D8-99FB-379B385F7BFA} = {20EAE310-F568-49BD-8335-989CEA11971A}
+		{FE83C806-BCB1-4D10-A09B-C54384160FC6} = {20EAE310-F568-49BD-8335-989CEA11971A}
+		{5CF6833D-F767-4E5E-91F4-3CE4C8D3F6A4} = {58E81D70-50A5-44C1-BE9B-A53A76F6B28B}
+		{90F8E544-52F1-4F4A-B208-0CFA47465617} = {58E81D70-50A5-44C1-BE9B-A53A76F6B28B}
+		{E7720C73-A1AD-42B6-922D-44755F7B3D99} = {58E81D70-50A5-44C1-BE9B-A53A76F6B28B}
+		{AF6A60E3-ACE6-4091-BE3E-9D4F708DC3D0} = {58E81D70-50A5-44C1-BE9B-A53A76F6B28B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F717341-430B-4B10-8758-F2D5FD652F4A}
+	EndGlobalSection
+EndGlobal

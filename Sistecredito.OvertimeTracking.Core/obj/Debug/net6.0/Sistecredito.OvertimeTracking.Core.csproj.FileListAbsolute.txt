@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\bin\Debug\net6.0\Sistecredito.OvertimeTracking.Core.deps.json
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\bin\Debug\net6.0\Sistecredito.OvertimeTracking.Core.dll
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\bin\Debug\net6.0\Sistecredito.OvertimeTracking.Core.pdb
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\Sistecredito.OvertimeTracking.Core.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\Sistecredito.OvertimeTracking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\Sistecredito.OvertimeTracking.Core.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\Sistecredito.OvertimeTracking.Core.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\Sistecredito.OvertimeTracking.Core.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\Sistecredito.OvertimeTracking.Core.dll
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\refint\Sistecredito.OvertimeTracking.Core.dll
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\Sistecredito.OvertimeTracking.Core.pdb
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Core\obj\Debug\net6.0\ref\Sistecredito.OvertimeTracking.Core.dll

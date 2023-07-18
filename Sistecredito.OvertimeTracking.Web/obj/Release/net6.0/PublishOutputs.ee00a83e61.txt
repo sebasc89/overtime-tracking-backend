@@ -1,0 +1,11 @@
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Sistecredito.OvertimeTracking.Web.exe
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\appsettings.Development.json
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\appsettings.json
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Sistecredito.OvertimeTracking.Web.dll
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Sistecredito.OvertimeTracking.Web.deps.json
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Sistecredito.OvertimeTracking.Web.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Sistecredito.OvertimeTracking.Web.pdb
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Microsoft.OpenApi.dll
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\source\repos\Sistecredito.OvertimeTracking\Sistecredito.OvertimeTracking.Web\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
